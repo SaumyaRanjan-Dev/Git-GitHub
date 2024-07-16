@@ -1,4 +1,4 @@
-Deep Dive in Git & GitHub for DevOps Engineers
+### Deep Dive in Git & GitHub
 ------------------------------------------------------------------------------------------------------------------
 
 ## What is Git and why is it important?
